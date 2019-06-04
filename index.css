@@ -139,6 +139,8 @@ a button{
 }
 .USSD-Img{
      margin-right:20em;
+     flex: 50%;
+
 }
 
 #Solution-2{
