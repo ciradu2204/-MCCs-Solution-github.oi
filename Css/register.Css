@@ -1,0 +1,175 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Raleway;
+ 
+}
+
+#first-part{
+    background-image: url(../Img/Cow.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 20vh;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 13em;
+   
+    
+}
+.header-1{
+   margin-left:10em;
+   color: white;
+}
+.nav-links{
+display: flex;
+text-decoration: none; 
+
+}
+.nav-links a#active{
+  color:  #05386B;
+
+}
+.nav-links a{
+    text-decoration: none;
+    margin: 10px;
+    color: white;
+  
+ 
+}
+
+.black{
+    background-color: black;
+    height: 20vh;
+    opacity: 0.7;
+
+}
+a button{
+    background-color: #05386B;
+    color: white;
+    font-family: cursive;  
+    font-weight: bolder;
+}
+form h1, b{
+    color: #05386B;
+}
+/* form */
+* {box-sizing: border-box}
+
+/* Add padding to containers */
+.container {
+  padding: 16px;
+  margin-left: 13em;
+  margin-right: 13em;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Overwrite default styles of hr */
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+/* Set a style for the submit/register button */
+.registerbtn {
+  background-color: #05386B;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.registerbtn:hover {
+  opacity:1;
+}
+
+ 
+
+/* Set a grey background color and center the text of the "sign in" section */
+.signin {
+  background-color: #f1f1f1;
+  text-align: center;
+}
+/* footer */
+footer{
+    background-color:#05386B;
+    color: white;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+#footer{
+    display: flex;
+  
+}
+footer h1{
+margin-left: 1em;  
+}
+
+.column-A{
+    flex: 45%;
+    margin-left: 13em;
+}
+.column-A li{
+   list-style-type: none;
+}
+.column-B {
+    flex: 45%;
+   
+}
+.column-B li{
+   
+    list-style-type: none;
+}
+.column-B li{
+    flex:45%;
+
+   list-style-type: none;
+}
+.column-C li{
+   list-style-type: none;
+}
+.column-D{
+  flex: 45%;
+  margin-right: 13em;
+}
+.column-D li{
+   flex: 45%;
+   list-style-type: none;
+  
+ }
+ ul a{
+    color: white;
+    text-decoration: none;
+}
+hr{
+     width: 20%;
+     background-color: white;
+    
+      
+ }
+ .copy-right{
+    text-align: center;
+    background-color:#05386B;
+    margin-bottom: 2.5em;
+}
