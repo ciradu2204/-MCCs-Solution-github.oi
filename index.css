@@ -9,7 +9,7 @@ body{
     background-image: url(./Img/Cow.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 131vh;
+   
 }
 .navbar{
     display: flex;
@@ -48,7 +48,6 @@ text-decoration: none;
 }
 .black{
     background-color: black;
-    height: 131vh;
     opacity: 0.7;
 
 }
@@ -75,7 +74,6 @@ a button{
 .problem.statement{ 
     display: flex;
     background-color: #05386B;
-    height: 59vh;
     opacity: 0.9;
      
 }
