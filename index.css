@@ -9,7 +9,8 @@ body{
     background-image: url(./Img/Cow.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;
+   
+ 
 }
 .navbar{
     display: flex;
@@ -48,8 +49,9 @@ text-decoration: none;
 }
 .black{
     background-color: black;
-    height: 100vh;
     opacity: 0.7;
+    padding-bottom: 120px;
+ 
 
 }
 a button{
@@ -75,8 +77,8 @@ a button{
 .problem.statement{ 
     display: flex;
     background-color: #05386B;
-    height: 37vh;
     opacity: 0.9;
+    padding: 20px;
      
 }
 .Farmer-Img-description{
