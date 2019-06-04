@@ -129,7 +129,7 @@ a button{
 }
 .USSD-description{
     flex: 50%;
-    margin-left: 3em;
+    margin-left: 2em;
     padding: auto;
  
 }
@@ -162,7 +162,7 @@ a button{
 }
 .Dashboard-Img{
   flex:50%;
-  margin-left: 1em;
+  margin-left: 2em;
 }
 #Clients{
     display: flex;
